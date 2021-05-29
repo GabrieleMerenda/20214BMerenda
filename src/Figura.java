@@ -1,5 +1,9 @@
 import java.util.*;
-
+/**
+ * 
+ * @author versione 2
+ *
+ */
 public interface Figura {
 
     public String getColore();
