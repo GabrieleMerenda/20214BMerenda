@@ -1,8 +1,8 @@
 import java.util.*;
 /**
  * 
- * @author versione 2
- *
+ * @author  versione 3 
+ * modificato da github
  */
 public interface Figura {
 
